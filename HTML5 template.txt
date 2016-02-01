@@ -1,0 +1,16 @@
+<!DOCTYPE HTML>
+<!--Matyas Fenyves-->
+<html>
+	<head>
+		<title>HTML page</title>
+		<style>
+			
+		</style>
+		<script>
+			
+		</script>
+	</head>
+	<body>
+		
+	</body>
+</html>

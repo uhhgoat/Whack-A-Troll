@@ -88,7 +88,7 @@
 		$_SESSION["host"] = "localhost" ;
 		$_SESSION["db"] = "mocktrol_troll" ;
 		$_SESSION["un"] = "mocktrol_mock" ;
-		$_SESSION["pw"] = "fen6pety" ;
+		$_SESSION["pw"] = "#######" ;
 		$hostname = $_SESSION["host"] ;
 		$dbname = $_SESSION["db"] ;
 		$uname = $_SESSION["un"] ;

@@ -27,7 +27,7 @@
 			$hostname = "localhost" ;
 			$dbname = "mocktrol_troll" ;
 			$uname = "mocktrol_mock" ;
-			$pword = "fen6pety" ;
+			$pword = "########" ;
 			$conn = new PDO("mysql:host=".$hostname.";dbname=".$dbname, $uname, $pword) ;
 			$cmd = "INSERT INTO accounts 
 			(username, password, email, level) 
